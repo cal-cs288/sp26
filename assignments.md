@@ -6,7 +6,7 @@ nav_order: 2
 
 # Assignments
 
-### Assignment 1: Language Modeling and Neural Networks
+### Assignment 1: *n*-gram Language Models and Neural Networks
 **Released 01/27**{: .label .label-yellow}
 **Due 02/10**{: .label .label-yellow}
 

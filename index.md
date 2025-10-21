@@ -36,18 +36,3 @@ All deadlines are by 6PM PST.
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

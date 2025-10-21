@@ -16,26 +16,35 @@
 title: CS 288
 tagline: A Jekyll template for course websites
 description: A modern, highly customizable, responsive Jekyll template for course websites
-author: Alane Suhr, Dan Klein, Kaylo Littlejohn, Kayo Yin
-baseurl: '/fa24' # the subpath of your site, e.g. /blog
+author: Sewon Min, Alane Suhr
+baseurl: '/sp26' # the subpath of your site, e.g. /blog
 url: 'https://cal-cs288.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.4.0.rc4
-color_scheme: light
+color_scheme: blue
 search_enabled: false
 heading_anchors: true
 permalink: pretty
 aux_links:
 footer_content:
 
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
+
 # Collections for website data
 collections:
-  staffers:
+  #staffers:
   modules:
   schedules:
-  announcements:
+  #announcements:
+
 # Default layouts for each collection type
 defaults:
   - scope:
@@ -62,10 +71,4 @@ defaults:
     values:
       layout: announcement
 
-compress_html:
-  clippings: all
-  comments: all
-  endings: all
-  startings: []
-  blanklines: false
-  profile: false
+      

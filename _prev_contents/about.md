@@ -7,7 +7,7 @@ description: >-
     Course policies and information.
 ---
 
-## Natural Language Processing
+## Advanced Natural Language Processing
 {: .mb-2 }
 Fall 2024
 {: .mb-2 .fs-6 .text-grey-dk-000 }

@@ -55,4 +55,20 @@ summary {
       margin-top: 1em;
     }
   }
+
+  .module > dl > dt + dd, .module > dl > dt + dd {
+    border-top: 1px solid #eeebee;
+  }
+
+
+}
+
+
+.label {
+  font-weight: normal;
+  margin-left: 0;
+}
+
+.label-yellow {
+  background-color: #ffffb3;
 }

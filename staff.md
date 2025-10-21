@@ -1,23 +1,40 @@
 ---
-layout: page
+layout: default
 title: Staff
-description: A listing of all the course staff members.
+nav_order: 5
 ---
 
+# Staff
 
-## Instructors
+<div class="staffer">
+	<img class="staffer-image" src="https://www.sewonmin.com/assets/sewon-2024.jpg" alt="">
+	<div>
+		<h3 class="staffer-name"> <a href="https://www.sewonmin.com/">Sewon Min</a> </h3>
+		<p class="staffer-meta">Instructor</p>
+		<p class="staffer-meta">
+			<a href="mailto:sewonm@berkeley.edu">sewonm@berkeley.edu</a>
+		</p>
+	</div>
+</div>
 
-{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
-{% for staffer in instructors %}
-{{ staffer }}
-{% endfor %}
 
-{% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
-{% assign num_teaching_assistants = teaching_assistants | size %}
-{% if num_teaching_assistants != 0 %}
-## Teaching Assistants
+<div class="staffer">
+	<img class="staffer-image" src="https://www.alanesuhr.com/photos/photo3-small.png" alt="">
+	<div>
+		<h3 class="staffer-name"> <a href="https://www.alanesuhr.com/">Alane Suhr</a> </h3>
+		<p class="staffer-meta">Instructor</p>
+		<p class="staffer-meta">
+			<a href="mailto:suhr@berkeley.edu">suhr@berkeley.edu</a>
+		</p>
+	</div>
+</div>
 
-{% for staffer in teaching_assistants %}
-{{ staffer }}
-{% endfor %}
-{% endif %}
+
+
+
+
+
+
+
+
+

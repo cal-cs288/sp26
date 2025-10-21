@@ -2,6 +2,8 @@
 .module {
   @extend %card;
 
+  font-size: 90%;
+
   h1,
   h2,
   h3,
@@ -29,7 +31,7 @@
     }
 
     @include mq(lg) {
-      grid-template-columns: 2fr 6fr;
+      grid-template-columns: 1.5fr 7.5fr;
     }
 
     %module-item {
@@ -57,10 +59,10 @@
         +dd {
           border-top: none;
         }
-      }
 
-      &::after {
-        content: ":";
+        +dd + dd{
+          border-top: none;
+        }
       }
     }
 
@@ -77,21 +79,21 @@
 
       dl {
         display: flex;
-        flex-direction: column;
+        flex-wrap: wrap;
 
+        dt, dd {
+          margin: 0;
+          border-top: $border $border-color;
+        }
+
+        // three equal columns
         @include mq(sm) {
-          flex-direction: row;
-        }
-
-        dt {
-          flex: 0 0 62.5%;
-          margin: 0;
-        }
-
-        dd {
-          margin: 0;
+          dt, dd {
+            flex: 0 0 33.3333%;
+          }
         }
       }
+
     }
   }
 }

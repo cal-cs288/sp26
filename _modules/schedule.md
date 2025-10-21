@@ -56,33 +56,33 @@ title: Schedule
 : Long-context LLM
 
 03/17 Tue
-: Test-time compute & Reasoning models
+: Mixture-of-Experts
 
 03/19 Thu
-: Vision-language models
+: Test-time compute & Reasoning models
 : **Assignment 3 due**{: .label .label-yellow}
 
-03/24 Tue
-: <span style="color: #1f78b4">No class: Spring break</span>
+**03/24 Tue**{: .gray}
+: **No class: Spring break**{: .gray}
 
-03/26 Thu
-: <span style="color: #1f78b4">No class: Spring break</span>
+**03/26 Thu**{: .gray}
+: **No class: Spring break**{: .gray}
 
 03/31 Tue
-: LLM Agents
+: LLM agents
 : **Assignment 4 released**{: .label .label-yellow}
 
 04/02 Thu
-: Interactive Embodied Agents
+: Vision-language models
 
 04/07 Tue
-: Pragmatics
+: Speech models
 
 04/09 Thu
-: Mixture-of-Experts
+: Interactive embodied agents
 
 04/14 Tue
-: Speech models
+: Pragmatics
 : **Assignment 4 due**{: .label .label-yellow}
 
 04/16 Thu

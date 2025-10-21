@@ -77,3 +77,19 @@ summary {
   background-color: #fccde5;
   color: black;
 }
+
+.gray {
+  font-weight: normal;
+}
+
+
+dt:has(.gray) {
+  background-color: #e0e0e0;
+}
+
+
+dd:has(.gray) {
+  background-color: #e0e0e0;
+}
+
+

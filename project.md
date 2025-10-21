@@ -8,5 +8,6 @@ nav_order: 3
 
 **Presentations on 04/28, 04/30**{: .label .label-yellow}
 **Project report due by 05/05**{: .label .label-yellow}
+**Group project**{: .label .label-pink}
 
 TBA

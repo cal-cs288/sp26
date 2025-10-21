@@ -36,6 +36,10 @@ Lectures will be live and in-person. All lectures will be recorded and made avai
 
 In-person attendance is required for the project presentations in Class 27 and 28, except where otherwise arranged via DSP.
 
+### Disability Support Services
+
+If you need disability-related accommodations in this class contact the UC Berkeley Disabled Students Program ((510) 642-0518 / [website](http://dsp.berkeley.edu)). DSP services include accommodation letters, assistive technology and access services. An accommodation letter is needed in order for the instructor to grant an accommodation (e.g. extended exam time). Students must be assessed every semester to receive an accommodation letter. 
+
 ### Policy for using generative AI
 You may use generative AI tools such as Co-Pilot and ChatGPT to assist you with your work, including for code and writing suggestions. However, your final submission will be evaluated based on your own voice and ideas. What matters most are your insights, reasoning, and takeaways.
 - Aspects of writing that will be evaluated: Clarify and substance of ideas, avoiding repetition or unnecessary verbosity, saying something meaningful rather than using many words to say little.

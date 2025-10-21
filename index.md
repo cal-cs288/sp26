@@ -6,7 +6,7 @@ nav_order: 1
 
 # Advanced Natural Language Processing
 {: .mb-2 }
-Fall 2024
+Spring 2026
 {: .mb-2 .fs-6 .text-grey-dk-000 }
 
 

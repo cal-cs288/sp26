@@ -8,6 +8,7 @@ title: Schedule
 
 01/22 Thu
 : Word representation
+: **[03_Word_Representation](assets/slides/CS288_sp26_03_Word_Representation.pdf)**{: .label .label-green}
 
 01/27 Tue
 : Text classification

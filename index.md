@@ -15,7 +15,7 @@ Spring 2026
 **Class location**: 	SODA 306 <br />
 **Instructor OH**: 		Right after the lectures at SODA 347<br />
 **GSI OH**: Monday (12:30 - 1 PM), Wednesday (11:30 AM - 12 PM) | [Zoom Link](https://berkeley.zoom.us/j/98315614287) <br />
-**Ed link**:      		[edstem.org/us/courses/92268](https://edstem.org/us/courses/92268) (Please use Ed for any class related questions)<br />
+**Ed link**:      		[https://edstem.org/us/join/XvztdK](https://edstem.org/us/join/XvztdK) (Please use Ed for any class related questions)<br />
 **Gradescope link**: [Gradescope](https://www.gradescope.com/courses/1233780)
 
 

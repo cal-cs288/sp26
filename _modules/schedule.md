@@ -12,6 +12,7 @@ title: Schedule
 
 01/27 Tue
 : Text classification
+: **[04_Text Classification](assets/slides/CS288_sp26_04_Text_Classification.pdf)**{: .label .label-green}
 : **Assignment 1 released**{: .label .label-yellow}
 
 01/29 Thu 

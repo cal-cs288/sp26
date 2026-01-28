@@ -7,9 +7,7 @@ nav_order: 2
 # Assignments
 
 ### Assignment 1: *n*-gram Language Models and Neural Networks
-**Released 01/27**{: .label .label-yellow}
-**Due 02/10**{: .label .label-yellow}
-
+**Released 01/27**{: .label .label-yellow} **Due 02/10**{: .label .label-yellow}
 : **[Assignment 1 Link](assignments/Sp2026_CS288_Assignment1.pdf)**{: .label .label-yellow}
 
 ### Assignment 2: Build Your Own Language Model

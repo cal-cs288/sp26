@@ -13,10 +13,13 @@ Spring 2026
 **Instructor**: 		[Sewon Min](https://www.sewonmin.com/), [Alane Suhr](https://www.alanesuhr.com/)<br />
 **Class hours**: 		TuThu 15:30–17:00 (15:40–17:00 considering Berkeley time) <br /> 
 **Class location**: 	SODA 306 <br />
-**Instructor OH**: 		Right after the lectures at SODA 347<br />
+**Instructor OH**: 		Right after the lectures at SODA 306<br />
 **GSI OH**: Monday (12:30 - 1 PM), Wednesday (11:30 AM - 12 PM) | [Zoom Link](https://berkeley.zoom.us/j/98315614287) <br />
+
 **Ed link**:      		[https://edstem.org/us/join/XvztdK](https://edstem.org/us/join/XvztdK) (Please use Ed for any class related questions)<br />
-**Gradescope link**: [Gradescope](https://www.gradescope.com/courses/1233780)
+**Gradescope link**: [Gradescope](https://www.gradescope.com/courses/1233780) (Use code: J4N7E2)
+
+**Lecture Recordings**: [https://www.youtube.com/playlist?list=PLnocShPlK-Fv9YZIX7qdOyc2GJqnT3D-8](https://www.youtube.com/playlist?list=PLnocShPlK-Fv9YZIX7qdOyc2GJqnT3D-8) (Needs Berkeley log in, lecture 1 coming soon)
 
 
 **If you are interested in taking the course and can't directly enroll, please submit [this form](https://forms.gle/FEe8LdKJGk1KVwDs6).**

@@ -17,6 +17,7 @@ title: Schedule
 
 01/29 Thu 
 : Sequence models (Key concepts: Recurrent neural networks)
+: **[05_Sequence Models](assets/slides/CS288_sp26_05_Sequence_Models.pdf)**{: .label .label-green}
 
 02/03 Tue
 : Case study 1: Machine Translation (Key concepts: Encoder-decoder, Attention)

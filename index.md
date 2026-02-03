@@ -19,9 +19,9 @@ Spring 2026
 **Ed link**:      		[https://edstem.org/us/join/XvztdK](https://edstem.org/us/join/XvztdK) (Please use Ed for any class related questions)<br />
 **Gradescope link**: [Gradescope](https://www.gradescope.com/courses/1233780) (Use code: J4N7E2)
 
-**Lecture Recordings**: [https://www.youtube.com/playlist?list=PLnocShPlK-Fv9YZIX7qdOyc2GJqnT3D-8](https://www.youtube.com/playlist?list=PLnocShPlK-Fv9YZIX7qdOyc2GJqnT3D-8) (Needs Berkeley log in, lecture 1 coming soon)
+**Lecture recordings**: [https://www.youtube.com/playlist?list=PLnocShPlK-Fv9YZIX7qdOyc2GJqnT3D-8](https://www.youtube.com/playlist?list=PLnocShPlK-Fv9YZIX7qdOyc2GJqnT3D-8) (Needs Berkeley log in, lecture 1 coming soon)
 
-**Gradescope link**: Final project logistics and reference topics: [https://docs.google.com/document/d/1C8Dl6DX0_F5g3HDR-Gwr1fTmKGgscxzbU9AiUpvxV0k/edit?usp=sharing](https://docs.google.com/document/d/1C8Dl6DX0_F5g3HDR-Gwr1fTmKGgscxzbU9AiUpvxV0k/edit?usp=sharing)
+**Final project**: Final project logistics and reference topics: [https://docs.google.com/document/d/1C8Dl6DX0_F5g3HDR-Gwr1fTmKGgscxzbU9AiUpvxV0k/edit?usp=sharing](https://docs.google.com/document/d/1C8Dl6DX0_F5g3HDR-Gwr1fTmKGgscxzbU9AiUpvxV0k/edit?usp=sharing)
 
 **If you are interested in taking the course and can't directly enroll, please submit [this form](https://forms.gle/FEe8LdKJGk1KVwDs6).**
 

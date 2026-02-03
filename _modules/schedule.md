@@ -20,47 +20,46 @@ title: Schedule
 : **[05_Sequence Models](assets/slides/CS288_sp26_05_Sequence_Models.pdf)**{: .label .label-green}
 
 02/03 Tue
-: Case study 1: Machine Translation (Key concepts: Encoder-decoder, Attention)
+: Sequence-to-sequence models
 
 02/05 Thu
-: Case study 2: Question answering
+: Transformers
 
 02/10 Tue
-: Transformers
+: Transformers (cont'd) & Pre-training
 : **Assignment 1 due**{: .label .label-yellow} **Team matching survey due**{: .label .label-yellow} **Assignment 2 released**{: .label .label-yellow}
 
 02/12 Thu
-: Transformers (cont'd) & Pre-training
-
-02/17 Tue
 : Pre-training (cont'd), Fine-tuning, & Prompting
 
-02/19 Thu
+02/17 Tue
 : Scaling laws & Data curation
 
+02/19 Thu
+: Post-training
+
 02/24 Tue
-: Guest lecture (TBA)
+: Inference methods & Evaluation
 : **Assignment 2 due**{: .label .label-yellow}
 
 02/26 Thu
 : Experimental design & Human annotation
 
 03/03 Tue
-: Retrieval and RAG
+: Impact & Social implications
 : **Project Checkpoint 1 (abstract) due**{: .label .label-yellow} **Assignment 3 released**{: .label .label-yellow}
 
 03/05 Thu
-: Post-training
+: Retrieval and RAG
 
 03/10 Tue
-: Inference methods & Evaluation
+: TBD
 
 03/12 Thu
 : Mixture-of-Experts
 
-03/17 Tue
-: Guest lecture (TBA)
-: **Assignment 3 early milestone due**{: .label .label-yellow}
+**03/17 Tue**{: .gray}
+: **No class: EECS faculty retreat**{: .gray} <br /> **Assignment 3 early milestone due**{: .label .label-yellow}{: .gray}
 
 03/19 Thu
 : Test-time compute & Reasoning models
@@ -93,7 +92,7 @@ title: Schedule
 
 
 04/21 Tue
-: Impact & Social implications
+: Guest lecture: TBD by [Akshat Gupta](https://akshat57.github.io/) (UC Berkeley)
 
 04/23 Thu
 : Guest lecture: "Speech" by [Gopala Anumanchipalli](https://people.eecs.berkeley.edu/~gopala/) (UC Berkeley)

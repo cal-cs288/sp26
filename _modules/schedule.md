@@ -21,7 +21,7 @@ title: Schedule
 
 02/03 Tue
 : Sequence-to-sequence models
-: **[06_Seq2Seq](assets/slides/CS288_sp26_06_Seq2Seq.pdf)**{: .label .label-green}
+: **[06_Seq2Seq](assets/slides/CS288_sp26_06_Seq2seq.pdf)**{: .label .label-green}
 
 02/05 Thu
 : Transformers

@@ -21,9 +21,11 @@ title: Schedule
 
 02/03 Tue
 : Sequence-to-sequence models
+: **[06_Seq2Seq](assets/slides/CS288_sp26_06_Seq2seq.pdf)**{: .label .label-green}
 
 02/05 Thu
 : Transformers
+: **[07_Transformers1](assets/slides/CS288_sp26_07_Transformers-1-36.pdf)**{: .label .label-green}
 
 02/10 Tue
 : Transformers (cont'd) & Pre-training
@@ -92,7 +94,7 @@ title: Schedule
 
 
 04/21 Tue
-: Guest lecture: TBD by [Akshat Gupta](https://akshat57.github.io/) (UC Berkeley)
+: Guest lecture: "Continual Learning" by [Akshat Gupta](https://akshat57.github.io/) (UC Berkeley)
 
 04/23 Thu
 : Guest lecture: "Speech" by [Gopala Anumanchipalli](https://people.eecs.berkeley.edu/~gopala/) (UC Berkeley)

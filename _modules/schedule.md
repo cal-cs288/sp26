@@ -24,41 +24,41 @@ title: Schedule
 : **[06_Seq2Seq](assets/slides/CS288_sp26_06_Seq2seq.pdf)**{: .label .label-green}
 
 02/05 Thu
-: Transformers
+: Sequence-to-sequence models (cont'd) & Transformers
 : **[07_Transformers1](assets/slides/CS288_sp26_07_Transformers-1-36.pdf)**{: .label .label-green}
 
 02/10 Tue
-: Transformers (cont'd) & Pre-training
+: Transformers (cont'd)
 : **Assignment 1 due**{: .label .label-yellow} **Team matching survey due**{: .label .label-yellow} **Assignment 2 released**{: .label .label-yellow}
 
 02/12 Thu
-: Pre-training (cont'd), Fine-tuning, & Prompting
+: Pre-training, Fine-tuning, & Prompting
 
 02/17 Tue
-: Scaling laws & Data curation
+: Pre-training, Fine-tuning, & Prompting (cont'd)
 
 02/19 Thu
-: Post-training
+: Pre-training advanced topics
 
 02/24 Tue
-: Inference methods & Evaluation
+: Post-training
 : **Assignment 2 due**{: .label .label-yellow}
 
 02/26 Thu
-: Experimental design & Human annotation
+: Inference methods & Evaluation
 
 03/03 Tue
-: Impact & Social implications
+: Experimental design & Human annotation
 : **Project Checkpoint 1 (abstract) due**{: .label .label-yellow} **Assignment 3 released**{: .label .label-yellow}
 
 03/05 Thu
-: Retrieval and RAG
+: Architecture advanced topics 1: Retrieval and RAG
 
 03/10 Tue
-: TBD
+: Architecture advanced topics 2: Mixture-of-Experts and other Transformers variants
 
 03/12 Thu
-: Mixture-of-Experts
+: Impact & Social implications
 
 **03/17 Tue**{: .gray}
 : **No class: EECS faculty retreat**{: .gray} <br /> **Assignment 3 early milestone due**{: .label .label-yellow}{: .gray}

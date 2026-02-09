@@ -29,10 +29,12 @@ title: Schedule
 
 02/10 Tue
 : Transformers (cont'd)
+: **[07_Transformers](assets/slides/CS288_sp26_07_Transformers.pdf)**{: .label .label-green}
 : **Assignment 1 due**{: .label .label-yellow} **Team matching survey due**{: .label .label-yellow} **Assignment 2 released**{: .label .label-yellow}
 
 02/12 Thu
 : Pre-training, Fine-tuning, & Prompting
+: **[08_Pretraining/FT/Prompting](assets/slides/CS288_sp26_08_Pretraining_Finetuning_Prompting.pdf)**{: .label .label-green}
 
 02/17 Tue
 : Pre-training, Fine-tuning, & Prompting (cont'd)

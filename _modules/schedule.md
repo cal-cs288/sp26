@@ -25,7 +25,6 @@ title: Schedule
 
 02/05 Thu
 : Sequence-to-sequence models (cont'd) & Transformers
-: **[07_Transformers1](assets/slides/CS288_sp26_07_Transformers-1-36.pdf)**{: .label .label-green}
 
 02/10 Tue
 : Transformers (cont'd)

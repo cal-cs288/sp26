@@ -11,7 +11,7 @@ nav_order: 2
 
 ### Assignment 2: Build Your Own Language Model
 **Released 02/10**{: .label .label-yellow}
-**Due 02/24**{: .label .label-yellow}
+**Due 02/24**{: .label .label-yellow} **[Assignment 2 Link](assignments/Sp2026_CS288_Assignment2.pdf)**{: .label .label-yellow}
 
 TBA
 

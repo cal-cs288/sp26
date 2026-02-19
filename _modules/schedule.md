@@ -40,6 +40,7 @@ title: Schedule
 
 02/19 Thu
 : Pre-training advanced topics
+: **[09_Pretraining_Advanced](assets/slides/CS288_sp26_09_Pretraining_Advanced.pdf)**{: .label .label-green}
 
 02/24 Tue
 : Post-training

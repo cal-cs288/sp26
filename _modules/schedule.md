@@ -45,6 +45,7 @@ title: Schedule
 02/24 Tue
 : Post-training
 : **Assignment 2 due**{: .label .label-yellow}
+: **[10_Posttraining](assets/slides/CS288_sp26_10_Posttraining.pdf)**{: .label .label-green}
 
 02/26 Thu
 : Inference methods & Evaluation

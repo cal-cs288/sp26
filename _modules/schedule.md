@@ -49,6 +49,7 @@ title: Schedule
 
 02/26 Thu
 : Inference methods & Evaluation
+: **[11_Generation](assets/slides/CS288_sp26_11_Generation.pdf)**{: .label .label-green}
 
 03/03 Tue
 : Experimental design & Human annotation

@@ -20,6 +20,8 @@ TBA
 **Early milestone due 03/17**{: .label .label-yellow}
 **Due 03/19**{: .label .label-yellow}
 **Group assignment**{: .label .label-pink}
+**[Assignment 3 Link](assignments/Sp2026_CS288_Assignment3.pdf)**{: .label .label-yellow}
+
 
 TBA
 

@@ -54,6 +54,7 @@ title: Schedule
 03/03 Tue
 : Experimental design & Human annotation
 : **Project Checkpoint 1 (abstract) due**{: .label .label-yellow} **Assignment 3 released**{: .label .label-yellow}
+: **[12_Evaluation_Benchmarking](assets/slides/CS288_sp26_12_Evaluation_Benchmarking.pdf)**{: .label .label-green}
 
 03/05 Thu
 : Architecture advanced topics 1: Retrieval and RAG

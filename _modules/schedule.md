@@ -58,6 +58,7 @@ title: Schedule
 
 03/05 Thu
 : Architecture advanced topics 1: Retrieval and RAG
+: **[13_Retrieval_and_RAG](assets/slides/CS288_sp26_13_Retrieval_and_RAG.pdf)**{: .label .label-green}
 
 03/10 Tue
 : Architecture advanced topics 2: Mixture-of-Experts and other Transformers variants

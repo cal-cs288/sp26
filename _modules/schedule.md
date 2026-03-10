@@ -57,11 +57,12 @@ title: Schedule
 : **[12_Evaluation_Benchmarking](assets/slides/CS288_sp26_12_Evaluation_Benchmarking.pdf)**{: .label .label-green}
 
 03/05 Thu
-: Architecture advanced topics 1: Retrieval and RAG
+: Retrieval and RAG
 : **[13_Retrieval_and_RAG](assets/slides/CS288_sp26_13_Retrieval_and_RAG.pdf)**{: .label .label-green}
 
 03/10 Tue
-: Architecture advanced topics 2: Mixture-of-Experts and other Transformers variants
+: Architecture advanced topics
+: **[14_Advanced_Architectures](assets/slides/CS288_sp26_14_Advanced_Architectures.pdf)**{: .label .label-green}
 
 03/12 Thu
 : Impact & Social implications

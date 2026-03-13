@@ -101,7 +101,7 @@ title: Schedule
 
 
 04/21 Tue
-: Guest lecture: "Continual Learning" by [Akshat Gupta](https://akshat57.github.io/) (UC Berkeley)
+: Guest lecture: "Continual Learning: Learning during Problem Solving" by [Akshat Gupta](https://akshat57.github.io/) (UC Berkeley)
 
 04/23 Thu
 : Guest lecture: "Speech" by [Gopala Anumanchipalli](https://people.eecs.berkeley.edu/~gopala/) (UC Berkeley)

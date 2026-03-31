@@ -82,6 +82,7 @@ title: Schedule
 
 03/31 Tue
 : LLM agents
+: **[15_Embodied_Perception](assets/slides/CS288_sp26_15_Embodied_Perception.pdf)**{: .label .label-green}
 
 04/02 Thu
 : Vision-language models

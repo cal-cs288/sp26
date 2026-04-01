@@ -91,7 +91,7 @@ title: Schedule
 : Interactive embodied agents
 
 04/09 Thu
-: Guest lecture: "Advancing the Capability and Safety of Computer-Use Agents" by [Huan Sun](https://u.osu.edu/ihudas/people/) (OSU)
+: Guest lecture: "On the Safety and Security of Computer-Use Agents" by [Huan Sun](https://u.osu.edu/ihudas/people/) (OSU)
 : **Project Checkpoint 2 (midpoint report) due**{: .label .label-yellow}
 
 04/14 Tue

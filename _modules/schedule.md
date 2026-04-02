@@ -81,11 +81,12 @@ title: Schedule
 : **No class: Spring break**{: .gray}
 
 03/31 Tue
-: LLM agents
+: Embodied Agents
 : **[15_Embodied_Perception](assets/slides/CS288_sp26_15_Embodied_Perception.pdf)**{: .label .label-green}
 
 04/02 Thu
-: Vision-language models
+: Test-Time Compute
+: **[16_Inference_Time](assets/slides/CS288_sp26_16_Inference_Time.pdf)**{: .label .label-green}
 
 04/07 Tue
 : Interactive embodied agents

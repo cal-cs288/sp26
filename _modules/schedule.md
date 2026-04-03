@@ -78,18 +78,18 @@ title: Schedule
 : **No class: Spring break**{: .gray}
 
 **03/26 Thu**{: .gray}
-: **No class: Spring break**{: .gray}
+: Office hours
 
 03/31 Tue
-: Embodied Agents
+: Embodied Perception
 : **[15_Embodied_Perception](assets/slides/CS288_sp26_15_Embodied_Perception.pdf)**{: .label .label-green}
 
 04/02 Thu
-: Test-Time Compute
+: Inference Time Compute
 : **[16_Inference_Time](assets/slides/CS288_sp26_16_Inference_Time.pdf)**{: .label .label-green}
 
 04/07 Tue
-: Interactive embodied agents
+: Reasoning and Agents
 
 04/09 Thu
 : Guest lecture: "On the Safety and Security of Computer-Use Agents" by [Huan Sun](https://u.osu.edu/ihudas/people/) (OSU)

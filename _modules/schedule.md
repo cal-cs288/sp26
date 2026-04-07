@@ -90,7 +90,7 @@ title: Schedule
 
 04/07 Tue
 : LLM Reasoning and Agents
-: **[16_Agent_Reasoning](assets/slides/CS288_sp26_17_Agents_Reasoning.pdf)**{: .label .label-green}
+: **[17_Agent_Reasoning](assets/slides/CS288_sp26_17_Agents_Reasoning.pdf)**{: .label .label-green}
 
 04/09 Thu
 : Guest lecture: "On the Safety and Security of Computer-Use Agents" by [Huan Sun](https://u.osu.edu/ihudas/people/) (OSU)

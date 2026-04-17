@@ -100,8 +100,8 @@ title: Schedule
 : Guest lecture: "Memory in Language Models: Representation and Extraction" by [Jack Morris](https://jxmo.io/) (Cornell &#8594; Stealth)
 
 04/16 Thu
-: Pragmatics
-
+: Embodied Agents
+: **[18_Embodied_Agents](assets/slides/CS288_sp26_18_Embodied_Agents.pdf)**{: .label .label-green}
 
 04/21 Tue
 : Guest lecture: "Continual Learning: Learning during Problem Solving" by [Akshat Gupta](https://akshat57.github.io/) (UC Berkeley)

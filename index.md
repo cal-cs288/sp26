@@ -16,12 +16,7 @@ Spring 2026
 **Instructor OH**: 		Right after the lectures at SODA 306<br />
 **GSI OH**: Monday (12:30 - 1 PM), Wednesday (11:30 AM - 12 PM) | [Zoom Link](https://berkeley.zoom.us/j/98315614287) <br />
 
-**Ed link**:      		[https://edstem.org/us/join/XvztdK](https://edstem.org/us/join/XvztdK) (Please use Ed for any class related questions)<br />
-**Gradescope link**: [Gradescope](https://www.gradescope.com/courses/1233780) (Use code: J4N7E2)
-
-**Lecture recordings**: [https://www.youtube.com/playlist?list=PLnocShPlK-Fv9YZIX7qdOyc2GJqnT3D-8](https://www.youtube.com/playlist?list=PLnocShPlK-Fv9YZIX7qdOyc2GJqnT3D-8) (Needs Berkeley log in, lecture 1 coming soon)
-
-**Final project**: Final project logistics and reference topics: [https://docs.google.com/document/d/1C8Dl6DX0_F5g3HDR-Gwr1fTmKGgscxzbU9AiUpvxV0k/edit?usp=sharing](https://docs.google.com/document/d/1C8Dl6DX0_F5g3HDR-Gwr1fTmKGgscxzbU9AiUpvxV0k/edit?usp=sharing)
+\[[Ed link (Please use Ed for any class related questions)](https://edstem.org/us/join/XvztdK)\] \[[Gradescope link (Use code: J4N7E2)](https://www.gradescope.com/courses/1233780)\] \[[Lecture recordings (Needs Berkeley log in)](https://www.youtube.com/playlist?list=PLnocShPlK-Fv9YZIX7qdOyc2GJqnT3D-8)\] \[[Final project logistics and reference topics](https://docs.google.com/document/d/1C8Dl6DX0_F5g3HDR-Gwr1fTmKGgscxzbU9AiUpvxV0k/edit?usp=sharing)\]
 
 <!-- **If you are interested in taking the course and can't directly enroll, please submit [this form](https://forms.gle/FEe8LdKJGk1KVwDs6).** -->
 

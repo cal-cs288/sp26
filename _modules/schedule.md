@@ -78,7 +78,7 @@ title: Schedule
 : **No class: Spring break**{: .gray}
 
 **03/26 Thu**{: .gray}
-: Office hours
+: **No class: Spring break**{: .gray}
 
 03/31 Tue
 : Embodied Perception
